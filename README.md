@@ -83,7 +83,6 @@ psi_bhcp.csv- Data for MCMC posterior distributions of average monthly transitio
 
 \*_elast_local_sur_se.csv - (where * may be either "phi" or "b") standard errrors of resampled elasticities for phi on per captia growth rate of Dresden Island population.
 
-This draft material is distributed solely for purposes of scientific peer review. Its content is deliberative and predecisional, so it must not be disclosed or released by reviewers. Because the manuscript has not yet been approved for publication by the U.S. Geological Survey (USGS), it does not represent any official USGS finding or policy.
 
 
 [![DOI](https://zenodo.org/badge/515774074.svg)](https://zenodo.org/badge/latestdoi/515774074)
